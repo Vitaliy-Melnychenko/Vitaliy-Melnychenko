@@ -1,4 +1,4 @@
-### Hi there 👋, I am Vitaliy Melnychenko
+### Hi there 👋, I am Tatomir Banzic
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://maniacdev.com/wp-content/uploads/2013/07/vvdocumenter-xcode.gif)
 
@@ -15,7 +15,6 @@ My Technologies are:
 ✔️ PHP / Laravel
 ✔️ Python / Django, Flask
 ✔️ MySQL, PostgreSQL, MongoDB
-✔️ Ruby on Rails
 
 (Note: Since I’ve been programming for a few years now, I’m fairly competent at debugging and picking up new tech stacks, or even using boxed services like WordPress and Shopify, Woo Commerce, just ask me about them!)
 
