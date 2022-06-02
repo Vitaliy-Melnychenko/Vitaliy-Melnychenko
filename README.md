@@ -23,7 +23,7 @@ Skills: React / Node / JavaScript
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Git, LinkedIn, Email 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Vitaliymelnychenko@outlook.com 
+- 📫 How to reach me: tatomirbanzic@outlook.com
 - 😄 Pronouns: He/His 
 
 
